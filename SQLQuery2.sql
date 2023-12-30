@@ -1,0 +1,5 @@
+SELECT TOP (1000) [TId]
+      ,[TName]
+      ,[TEmail]
+      ,[TSlogan]
+  FROM [TeamServiceContextDb].[dbo].[Team]
